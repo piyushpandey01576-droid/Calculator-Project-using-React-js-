@@ -6,6 +6,8 @@ const App = () => {
     <div className='body'>
       
       <Calci />
+      
+      
 
     </div>
   )

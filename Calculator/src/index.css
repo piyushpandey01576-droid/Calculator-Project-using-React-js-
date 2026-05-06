@@ -19,7 +19,7 @@
   width: 280px;
   display: block;
   position: absolute;
-  top: 30px;
+  top: 40px;
 }
 .input {
   height: 50px;
@@ -31,7 +31,7 @@
   text-align: right;
   font-weight: bolder;
   font-size: xx-large;
-  margin-left: 50px;
+  margin-left: 43px;
 }
 
 .buttonsbox {
