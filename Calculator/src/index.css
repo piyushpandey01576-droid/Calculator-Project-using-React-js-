@@ -1,3 +1,14 @@
+body {
+  background: radial-gradient(
+    circle at center,
+    #ff9eb5 0%,   
+    #c2185b 40%,   
+    #3a0015 75%,  
+    #000000 100%    
+)}
+
+
+
 .container {
   display: flex;
   align-items: center;

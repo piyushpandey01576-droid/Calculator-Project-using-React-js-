@@ -8,4 +8,8 @@ To Create This Calculator:-
 
 3. I have also learned about value tag in this which helps to fix the value of that particular div.
 
-4. 
+4. In this step I have Used concat tag which helps in number to contact we with the previous number because whenever I press any number it replaces the previous number by itself and in this concat helps in adding or writing both the numbers together.
+
+5. Used eval tag to evaluate our values 
+
+6. Created Function for all Special buttons and completed the project
