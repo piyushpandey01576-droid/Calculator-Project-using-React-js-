@@ -77,8 +77,8 @@ const Calci = () => {
           <button onClick={calculation} className="equal">
             =
           </button>
-          <button onClick={getValue} value="%" className="division">
-            %
+          <button onClick={getValue} value="/" className="division">
+            /
           </button>
         </div>
       </div>
